@@ -11,7 +11,7 @@ import { Link } from "react-router-dom";
 
 const Navbar = () => {
   return (
-    <div>
+    <div id='navbar'>
       <Box sx={{ flexGrow: 1 }}>
         <AppBar position="static" color="secondary">
           <Toolbar>
